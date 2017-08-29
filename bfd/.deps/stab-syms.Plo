@@ -1,0 +1,47 @@
+stab-syms.lo: stab-syms.c bfd.h ../include/ansidecl.h ../include/symcat.h \
+ /usr/include/x86_64-linux-gnu/sys/stat.h /usr/include/features.h \
+ /usr/include/x86_64-linux-gnu/bits/predefs.h \
+ /usr/include/x86_64-linux-gnu/sys/cdefs.h \
+ /usr/include/x86_64-linux-gnu/bits/wordsize.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs.h \
+ /usr/include/x86_64-linux-gnu/gnu/stubs-64.h \
+ /usr/include/x86_64-linux-gnu/bits/types.h \
+ /usr/include/x86_64-linux-gnu/bits/typesizes.h /usr/include/time.h \
+ /usr/include/x86_64-linux-gnu/bits/stat.h libaout.h ../include/bfdlink.h \
+ ../include/aout/aout64.h ../include/aout/stab.def
+
+bfd.h:
+
+../include/ansidecl.h:
+
+../include/symcat.h:
+
+/usr/include/x86_64-linux-gnu/sys/stat.h:
+
+/usr/include/features.h:
+
+/usr/include/x86_64-linux-gnu/bits/predefs.h:
+
+/usr/include/x86_64-linux-gnu/sys/cdefs.h:
+
+/usr/include/x86_64-linux-gnu/bits/wordsize.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs.h:
+
+/usr/include/x86_64-linux-gnu/gnu/stubs-64.h:
+
+/usr/include/x86_64-linux-gnu/bits/types.h:
+
+/usr/include/x86_64-linux-gnu/bits/typesizes.h:
+
+/usr/include/time.h:
+
+/usr/include/x86_64-linux-gnu/bits/stat.h:
+
+libaout.h:
+
+../include/bfdlink.h:
+
+../include/aout/aout64.h:
+
+../include/aout/stab.def:
